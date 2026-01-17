@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Aayush Raj Giri</h1>
+  <h1> Hi, I'm Aayush Raj Giri</h1>
   <p>
     <strong>Computer Science Student | Data Analyst | Python Developer | Building in Public</strong>
   </p>
@@ -10,17 +10,17 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a Computer Science Engineering student specializing in **Data Analytics**, **Python Development**, and **AI Engineering**. 
 
 My journey started with **C++ problem-solving** to build algorithmic thinking. Now I work with **Python, SQL, and Power BI** to analyze data, extract insights, and build production-ready analytics systems.
 
-**Current Status:** 🔥 Building data-driven solutions | Transitioning to AI Engineering | Daily coding streak active
+**Current Status:** Building data-driven solutions | Transitioning to AI Engineering | Daily coding streak active
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,21 +45,23 @@ My journey started with **C++ problem-solving** to build algorithmic thinking. N
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=27raj-giri&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=27raj-giri&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27raj-giri&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=27raj-giri&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=27raj-giri&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27raj-giri&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 💼 Core Skills
+## Core Skills
 
 ### **Data Analytics & Business Intelligence**
 - ✅ SQL (PostgreSQL) - Complex queries, joins, window functions, time-series analysis
@@ -83,9 +85,9 @@ My journey started with **C++ problem-solving** to build algorithmic thinking. N
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
-### 📊 **Data Analytics Portfolio**
+### **Data Analytics Portfolio**
 
 #### 🏥 **[HealthKart Growth & Retention Analysis](https://github.com/27raj-giri/healthkart-growth-retention-analysis)**
 Product growth case study analyzing user retention and churn using growth accounting metrics. Includes actionable insights and recommendations to improve stickiness and reduce acquisition waste.
@@ -129,7 +131,7 @@ Beginner-friendly SQL project: COVID-19 data analysis with joins, window functio
 
 ---
 
-### 🐍 **Python Learning Journey**
+### **Python Learning Journey**
 
 #### 📚 **[Python Learning Journey](https://github.com/27raj-giri/python-learning-journey)**
 A structured daily Python learning journey — from fundamentals to AI engineering. Includes logic-building problems, recursion, data structures, and mini-projects.
@@ -140,7 +142,7 @@ A structured daily Python learning journey — from fundamentals to AI engineeri
 
 ---
 
-### 💻 **Foundations**
+### **Foundations**
 
 #### 🔧 **[CPP Problem Solving](https://github.com/27raj-giri/cpp-problem-solving)**
 C++ programs and DSA basics used to build problem-solving foundations.
@@ -149,7 +151,7 @@ C++ programs and DSA basics used to build problem-solving foundations.
 
 ---
 
-### 🏗️ **Domain-Specific Projects**
+### **Domain-Specific Projects**
 
 #### ⚙️ **[Vaishnav Fasteners Quality System](https://github.com/27raj-giri/vaishnav-fasteners-quality-system)**
 Low-Code Quality Management System architecture designed to replace manual factory logs with a 'Scan-to-Track' Google Ecosystem workflow.
@@ -163,7 +165,7 @@ Diagnosing a 28% retention drop using AI Prompt Engineering and Amplitude Event 
 
 ---
 
-## 🎯 What Makes My Work Different
+## What Makes My Work Different
 
 ✅ **Production-Ready:** Every project is documented, clean, and deployable  
 ✅ **Real-World Focus:** Analyzing actual business problems with data  
@@ -174,7 +176,7 @@ Diagnosing a 28% retention drop using AI Prompt Engineering and Amplitude Event 
 
 ---
 
-## 📈 Current Focus (2026)
+## Current Focus (2026)
 ```python
 current_roadmap = {
     "phase_1": {
@@ -197,7 +199,7 @@ current_roadmap = {
 
 ---
 
-## 🌟 My Learning Philosophy
+## My Learning Philosophy
 
 > **"This GitHub reflects my learning journey — step by step, publicly."**
 
@@ -209,7 +211,7 @@ current_roadmap = {
 
 ---
 
-## 🏆 2026 Roadmap
+## 2026 Roadmap
 
 | Phase | Timeline | Focus | Projects | Status |
 |-------|----------|-------|----------|--------|
@@ -220,19 +222,19 @@ current_roadmap = {
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/27rajgiri)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/27raj-giri)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heyaayush27@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heyayush27@gmail.com)
 
 </div>
 
 ---
 
-## 💡 Why Follow My Journey?
+## Why Follow My Journey?
 
 ✅ **Real Analytics Work:** Production-ready data projects across multiple domains  
 ✅ **SQL Expertise:** Complex queries solving real business problems  
@@ -244,7 +246,7 @@ current_roadmap = {
 
 <div align="center">
   
-  ### 🔑 Analyzing Data | Building Solutions | Learning Publicly
+  ### Analyzing Data | Building Solutions | Learning Publicly
   
   ![Data Analytics](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
   
