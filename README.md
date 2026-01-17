@@ -49,11 +49,11 @@ My journey started with **C++ problem-solving** to build algorithmic thinking. N
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=27raj-giri&show_icons=true&theme=radical&count_private=true&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=27raj-giri&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=27raj-giri&theme=radical&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=27raj-giri&theme=radical&hide_border=true" alt="GitHub Streak" />
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=27raj-giri&layout=compact&theme=radical&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27raj-giri&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   
 </div>
 
@@ -191,9 +191,7 @@ current_roadmap = {
         "timeline": "Jun-Aug 2026",
         "focus": "35+ AI projects + Job hunt",
         "status": "⏳ Planned"
-    },
-    "goal": "Remote AI Engineer ($2K-4K/month)",
-    "philosophy": "Skills > College Brand"
+    }
 }
 ```
 
@@ -208,7 +206,6 @@ current_roadmap = {
 - 📌 **Real Projects:** Solving actual business problems with data
 - 📌 **Quality Over Quantity:** Every project is production-ready
 - 📌 **Consistency:** Daily commits, continuous improvement
-- 📌 **From Tier-3 to Top:** Proving skills matter more than college brand
 
 ---
 
@@ -241,8 +238,7 @@ current_roadmap = {
 ✅ **SQL Expertise:** Complex queries solving real business problems  
 ✅ **Python Mastery:** Building from fundamentals to AI applications  
 ✅ **Daily Progress:** Consistent commits, documented learning  
-✅ **Business Mindset:** Not just analysis — driving decisions with data  
-✅ **Honest Journey:** From Tier-3 college to competing with the best  
+✅ **Business Mindset:** Not just analysis — driving decisions with data   
 
 ---
 
@@ -266,5 +262,3 @@ current_roadmap = {
 ```
 
 ---
-
-
