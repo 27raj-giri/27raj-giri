@@ -47,10 +47,7 @@ My journey started with **C++ problem-solving** to build algorithmic thinking. N
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=27raj-giri&theme=dark&hide_border=true" />
-</p>
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=27raj-giri&theme=dark)
 
 ---
 
