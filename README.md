@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Aayush Raj Giri 👋
+# Hi, I'm Aayush Raj Giri
 
 ### Product × Data × AI
 
