@@ -1,195 +1,209 @@
-<div align="center">
-  <h1>Hi, I'm Aayush Raj Giri 👋</h1>
-  <p>
-    <strong>Computer Science Student | Data Analyst | Python Developer | SQL Enthusiast</strong>
-  </p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/27rajgiri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://github.com/27raj-giri"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="mailto:heyaayush27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  </p>
+<div align="center">
+
+# Hi, I'm Aayush Raj Giri 👋
+
+### Product × Data × AI
+
+**Computer Science Engineering Student | Product & Data Analytics | AI-Powered Applications**
+
+I turn business problems into product ideas, data-driven insights, and AI-powered solutions.
+
+<p>
+  <a href="https://www.linkedin.com/in/27rajgiri">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/27raj-giri">
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:heyaayush27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science Engineering student (3rd Year) specializing in **Data Analytics**, **SQL**, and **Python Development**.
+I'm a Computer Science Engineering student graduating in 2027, interested in the intersection of product management, analytics, and artificial intelligence.
 
-My journey started with **C++ problem-solving** to build algorithmic thinking. Now I work with **Python, SQL, Power BI, and Excel** to analyze data, extract insights, and build production-ready analytics solutions.
+- **Product:** Product research, competitive analysis, PRDs, feature ideation, and user experience at Motilal Oswal's Research360.
+- **Data:** SQL, Python, Excel, business analysis, data exploration, and dashboard-driven insights.
+- **AI:** Building AI-powered applications, LLM workflows, and practical automation tools.
+- **Entrepreneurship:** Co-building GOSWAMii Foods, with hands-on experience in product strategy, pricing, and operations.
 
-* **Current Focus:** Mastering SQL & Building Data Analytics portfolio (Feb 2026)
-* **Long-term Goal:** Data Analyst → AI-powered Analytics Engineer
-* **Philosophy:** "From C++ foundations to Python mastery to Data Analytics to AI — every query, every insight is a step forward."
+I enjoy taking problems from discovery to analysis to a working solution.
 
----
-
-## 🛠 Tech Stack
-
-### **Core Skills**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### **Data & Analytics**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### **Learning Path**
-![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+**Currently exploring:** Product Analytics · Business Intelligence · AI Applications
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=27raj-giri&theme=dark" alt="GitHub Streak" />
-</div>
+### Languages & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+### Data & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio"/>
+</p>
+
+### AI & Application Development
+
+<p>
+  <img src="https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+### Product & Business Skills
+
+`Product Discovery` · `PRDs` · `Competitive Analysis` · `User Research` · `Product Analytics` · `Business Analysis` · `Growth & Retention Analysis`
 
 ---
 
 ## 🚀 Featured Projects
 
-### **Data Analytics Portfolio**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-#### 🏥 **[HealthKart Growth & Retention Analysis](https://github.com/27raj-giri/healthkart-growth-retention-analysis)**
-Product growth case study analyzing user retention and churn using growth accounting metrics.
-* **Tech:** Jupyter Notebook, Data Analytics, Python
-* **Focus:** User retention, Growth metrics, Business insights
+### 🤖 StockLens AI
 
-#### 🏨 **[TravClan Business Analyst Assessment](https://github.com/27raj-giri/TravClan-BA-Assessment)**
-Business analyst intern assessment project analyzing hotel booking data with SQL, visualizations, and automation.
-* **Tech:** SQL, Data Visualization, Python, Automation
+AI-powered stock research assistant with conversational financial research and stock-screening workflows.
 
-#### 🏀 **[NBA Analytics Project](https://github.com/27raj-giri/nba-analytics-project)**
-Advanced sports analytics engine built with PostgreSQL analyzing NBA player statistics to calculate performance metrics and identify career patterns.
-* **Tech:** PostgreSQL, Sports Analytics, Window Functions
+**Focus:** AI Applications · Financial Research
 
-#### 💬 **[Social Media Sentiment Analysis](https://github.com/27raj-giri/social-media-sentiment-analysis)**
-PostgreSQL-based project analyzing Twitter US Airline Sentiment dataset to uncover customer opinions and trends.
-* **Tech:** PostgreSQL, Sentiment Analysis, Data Mining
+[View Repository](https://github.com/27raj-giri)
 
-#### 📈 **[Financial Market Analysis](https://github.com/27raj-giri/financial-market-analysis)**
-Analyzing stock market performance using SQL and Python. Loads historical stock prices into PostgreSQL and performs time-series queries.
-* **Tech:** SQL, Python, PostgreSQL, Time-series Analysis
+</td>
+<td width="50%" valign="top">
 
----
+### 🧠 AI Context Bridge
 
-### **Python Mastery Journey**
+A Chrome extension concept for transferring useful context across AI assistants and reducing repetitive prompting.
 
-#### 📚 **[Python Learning Journey](https://github.com/27raj-giri/python-learning-journey)**
-A structured daily Python learning journey — from fundamentals to advanced concepts.
-* **210+ programs** across fundamentals, functions, recursion, file I/O, OOP, generators
-* **46-day unbroken streak** (Dec 15, 2025 - Jan 30, 2026)
-* **Status:** ✅ Complete (transitioning to SQL + Data Analytics)
+**Focus:** AI Productivity · Browser Extensions
 
----
+[View Repository](https://github.com/27raj-giri)
 
-### **SQL Mastery (Current Focus 🔥)**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-#### 🗄️ **[SQL Mastery Journey](https://github.com/27raj-giri/sql-mastery)** *(Coming Soon)*
-12-day intensive SQL program covering basics to advanced concepts.
-* **310+ practice questions** across 5 difficulty levels
-* **Topics:** SELECT, JOINs, Subqueries, Window Functions, CTEs, Performance Optimization
-* **Real-world project:** E-commerce analytics database
-* **Status:** 🔄 Day 1/12 (Feb 9, 2026)
+### 📊 HealthKart Growth & Retention Analysis
 
----
+Analyzed growth and retention patterns to identify potential bottlenecks and develop data-driven recommendations.
 
-## 🎯 Current Roadmap (2026)
-```python
-roadmap_2026 = {
-    "phase_1": {
-        "timeline": "Feb 9-20, 2026",
-        "focus": "SQL Mastery (12 days, 310+ questions)",
-        "goal": "Job-ready SQL skills",
-        "status": "🔄 Day 1 In Progress"
-    },
-    "phase_2": {
-        "timeline": "Feb 21 - Apr 30, 2026",
-        "focus": "Data Analytics Projects (15-20 portfolio projects)",
-        "tech": "Python, Pandas, NumPy, SQL, Power BI, Excel",
-        "status": "⏳ Upcoming"
-    },
-    "phase_3": {
-        "timeline": "May - Aug 2026",
-        "focus": "Job Hunt + Freelancing",
-        "goal": "$2,000-4,000/month remote income",
-        "platforms": "Upwork, LinkedIn, Naukri, Internshala",
-        "status": "⏳ Planned"
-    },
-    "phase_4": {
-        "timeline": "Post-Aug 2026",
-        "focus": "AI-powered Analytics transition",
-        "tech": "LangChain, RAG, AI Agents",
-        "status": "⏳ Future"
-    }
-}
-```
+**Focus:** Python · Pandas · Growth Analytics
 
----
+[View Repository](https://github.com/27raj-giri/healthkart-growth-retention-analysis)
 
-## 💼 What I'm Building
+</td>
+<td width="50%" valign="top">
 
-**Data Analytics Focus (Feb-Aug 2026):**
-- ✅ **Python:** 210+ programs, strong fundamentals
-- 🔄 **SQL:** 12-day intensive mastery (310+ questions)
-- ⏳ **Excel & Power BI:** Advanced dashboards & reports
-- ⏳ **Portfolio:** 15-20 real-world DA projects
-- ⏳ **Freelance:** Upwork/Fiverr DA services
+### 🏨 TravClan Business Analytics Assessment
 
-**Long-term Vision:**
-- 🎯 Data Analyst → Analytics Engineer → AI-powered Analytics
-- 🎯 Remote work at $2,000-4,000/month
-- 🎯 Building in public, helping others learn
+Analyzed hotel-booking data and built dashboards to communicate business performance and actionable insights.
+
+**Focus:** SQL · Python · Looker Studio · Excel
+
+[View Repository](https://github.com/27raj-giri/TravClan-BA-Assessment)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🇮🇳 UIDAI Data Hackathon 2026
+
+Explored Aadhaar enrolment and update trends across Indian states and age groups using aggregated datasets.
+
+**Focus:** Python · Pandas · Data Visualization
+
+[Explore My Repositories](https://github.com/27raj-giri?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Financial Market Analysis
+
+A data analytics project focused on exploring financial market data and communicating patterns through analysis.
+
+**Focus:** Python · Data Analysis · Finance
+
+[View Repository](https://github.com/27raj-giri/financial-market-analysis)
+
+</td>
+</tr>
+</table>
+
+### More Projects
+
+- [NBA Analytics Project](https://github.com/27raj-giri/nba-analytics-project) — sports data exploration and analysis.
+- [Social Media Sentiment Analysis](https://github.com/27raj-giri/social-media-sentiment-analysis) — sentiment analysis and text-based insights.
+- [Python Learning Journey](https://github.com/27raj-giri/python-learning-journey) — Python practice and programming fundamentals.
+- [All Repositories →](https://github.com/27raj-giri?tab=repositories)
 
 ---
 
-## 📈 Key Achievements
-
-✅ **46-day unbroken coding streak** (Dec 15 - Jan 30, 2026)  
-✅ **210+ Python programs** across 7 modules  
-✅ **5 production-ready SQL projects** (HealthKart, TravClan, NBA, etc.)  
-✅ **Power BI dashboards** for business insights  
-✅ Consistent GitHub activity & LinkedIn content creation  
-
----
-
-## 🎓 Philosophy
-
-> **"Data tells stories. SQL asks the questions. Python finds the patterns. Analytics drives decisions."**
-
-I don't just write queries — I solve business problems.  
-I don't just analyze data — I extract actionable insights.  
-I don't just build projects — I create portfolio pieces that land jobs.
-
----
-
-## 📫 Let's Connect
-
-💼 **Open to:**
-- Data Analyst internships/roles
-- Freelance analytics projects
-- Collaboration on data-driven solutions
-- Mentorship & knowledge sharing
-
-📧 **Email:** heyaayush27@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/27rajgiri](https://linkedin.com/in/27rajgiri)  
-🐙 **GitHub:** You're already here! Star my repos if you find them useful ⭐
-
----
+## 📊 GitHub Statistics
 
 <div align="center">
-  <sub>Last Updated: February 2026 | 55-day streak 🔥 | Building data-driven solutions</sub>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=27raj-giri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27raj-giri&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=27raj-giri&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🎯 What I'm Working Towards
+
+- Building stronger product and data analytics foundations.
+- Developing practical AI applications using LLMs and APIs.
+- Creating portfolio projects that solve clearly defined problems.
+- Improving my ability to communicate insights and product decisions.
+- Exploring opportunities at the intersection of **Product, Data, and AI**.
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to collaborating on product ideas, analytics projects, AI applications, and practical business problem-solving.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/27rajgiri">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="mailto:heyaayush27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
+  </a>
+</p>
+
+<div align="center">
+
+*Building at the intersection of products, data, and AI.*
+
 </div>
